@@ -1,3 +1,3 @@
 # pruebas-react
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-njozie)
+Ejemplos de desarrollo
